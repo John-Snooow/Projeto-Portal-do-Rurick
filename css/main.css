@@ -1,9 +1,9 @@
 body{
-    width: 100%;
-    height: 100%;
+    width: 99%;
+    height: 99%;
 }
 .menu-principal{
-    width: 100%;
+    width:100%;
     background-color: #262323;
     height: 60px;
 }
@@ -13,5 +13,5 @@ main{
     position: relative;
 }
 .logo {
-    padding: 1px; /*aqui eu coloque este tamanho porque a logo é redonda e cobre todo espaço do do cabeçalho*/
+    padding: -3px; /*aqui eu coloque este tamanho porque a logo é redonda e cobre todo espaço do do cabeçalho*/
 }
