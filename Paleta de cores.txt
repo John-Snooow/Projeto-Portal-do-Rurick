@@ -1,0 +1,8 @@
+
+1. **Azul Primário**: #2B7A78 - Um tom calmo e profundo que pode servir como a cor principal do seu site.
+2. **Azul Secundário**: #17252A - Um azul mais escuro que pode ser usado para criar contraste com o azul primário.
+3. **Azul Claro**: #3AAFA9 - Um azul claro e vibrante para destacar elementos importantes, como botões e links.
+4. **Cinza Neutro**: #DEF2F1 - Um cinza claro para fundos e áreas de conteúdo, proporcionando descanso visual.
+5. **Branco**: #FEFFFF - Para textos e elementos que precisam se destacar claramente contra as cores mais escuras.
+
+Essas cores podem ser usadas juntas para criar um design coeso e visualmente atraente. Lembre-se de ajustar a saturação e o brilho conforme necessário para atender às necessidades específicas do seu site e público-alvo.
