@@ -1,7 +1,7 @@
 body{
     width: 100%; /*are pra ser 100%*/
     height: 100%;
-    margin: 0%;
+    margin: 0% auto;
 }
 .menu-principal{
     width:100%;
@@ -27,4 +27,28 @@ main{
 .redes-sociais{
     width: 20%;
     float: left;/*para posicionar a esquerda*/
+}
+.header-2{
+    background-color: white;
+    width: 100%;
+    border: 3px solid #efefef;
+}
+.menu ul li {
+    display: inline-block;/*para apagar os pontos e colocar os nome do menu ao lado do outro*/
+    margin-left: 20px;/*espaço entre os nomes do menu*/
+    color: #8b8b8b;
+}
+.menu ul li a{
+    color: #1c1047; 
+    text-decoration: none;/*para apagar o sublinhado*/
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.menu{
+    /*width: 80px;  -  eu teria coloicado o width mais por algum motivo ele fez com que o menuficasse empilhado todo na esquerda, por isso tirei*/
+    float: left;
+}
+.busca{
+    width: 20px;
+    float: right;
 }
