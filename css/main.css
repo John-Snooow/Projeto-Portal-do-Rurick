@@ -8,7 +8,7 @@ ul {
 }
 .menu-principal {
 width: 100%;
-background-color: #252323;
+background-color: #0f032c;
 height: 60px;
 }
 main, .content {
@@ -18,7 +18,6 @@ position: relative;
 }
 .logo {
  float: left;
- padding: 16px;
  width: 70%;
 }
 .redes-sociais ul li {
@@ -28,7 +27,7 @@ float: left;
 list-style: none;
 }
 .redes-sociais {
-width: 25%;
+width: 30%;
 float: right;
 }
 .header-2 {
@@ -58,7 +57,7 @@ border-bottom: 3px solid #efefef;
 }
 
 .menu ul li a {
-    color: #8b8b8b;
+    color: #1c0a5e8f;
     text-decoration: none;
     font-size: 18px;
     text-transform: uppercase;
@@ -240,12 +239,12 @@ cursor: pointer;
 }
 
 .footer {
-    background-image: url('../img/footer.png');
+    background-color: #0f032cbb;
     color: #ffffff;
 }
 
 .footer-2 {
-    background-image: url('../img/footer2.png');
+    background-color: #0f032c;
     color: #c1c1c1;
     height: 90px;
 }
@@ -258,6 +257,7 @@ cursor: pointer;
 
 .footer-2 p {
     padding: 10px;
+    text-align: center;
 }
 
 .clock {
