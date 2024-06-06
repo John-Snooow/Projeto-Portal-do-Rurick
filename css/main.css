@@ -3,10 +3,13 @@ body{
     height: 100%;
     margin: 0% auto;
 }
+ul{
+    padding: 0px !important;
+}
 .menu-principal{
     width:100%;
     background-color: #112b4d;
-    height: 75px;
+    height: 60px;
 }
 main{
     margin: 0 auto;
@@ -16,21 +19,22 @@ main{
 .logo {
     float: left;/*para ficar em cima a esquerda*/
     padding: 0px; /*aqui eu coloque o tamanho 0 porque a logo é redonda e cobre todo espaço do do cabeçalho*/
-    width: 80%;/*tamanho */
+    width: 70%;/*tamanho */
 }
 
 .redes-sociais ul li{
-    margin-left: 3px;/*espaço entre os icones*/
+    margin-left: 15px;/*espaço entre os icones*/
     display: inline-block; /*para apagar os pontos dos links*/
     list-style: none;
 }
 .redes-sociais{
-    width: 20%;
+    width: 25%;
     float: left;/*para posicionar a esquerda*/
 }
 .header-2{
     background-color: white;
-    width: 100%;
+    width: 980px;
+    margin: 0 auto;
     border: 3px solid #efefef;
 }
 .menu ul li {
@@ -45,10 +49,15 @@ main{
     text-transform: uppercase;
 }
 .menu{
-    /*width: 80px;  -  eu teria coloicado o width mais por algum motivo ele fez com que o menuficasse empilhado todo na esquerda, por isso tirei*/
+    width: 80px;  /*eu teria coloicado o width mais por algum motivo ele fez com que o menuficasse empilhado todo na esquerda, por isso tirei*/
     float: left;
 }
 .busca{
     width: 20px;
     float: right;
+}
+.col-100{
+    width: 100px;
+    float: left;
+    position: relative;
 }
