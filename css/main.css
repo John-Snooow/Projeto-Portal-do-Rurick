@@ -10,6 +10,7 @@ ul {
 width: 100%;
 background-color: #0f032c;
 height: 60px;
+background-image: ;
 }
 main, .content {
 margin: 0 auto;
@@ -21,6 +22,7 @@ position: relative;
  width: 70%;
 }
 .redes-sociais ul li {
+color: white;
 margin-left: 25px;
 display: inline-block;
 float: left;
