@@ -222,13 +222,9 @@ cursor: pointer;
  padding-top: 1em;
  vertical-align: middle;
 }
-.col-4 img:hover {
-    margin-top: 10px!important;
-    position: relative!important;
-}
 
 .bloco-logos {
-    height: 170px;
+    height: 180px;
 }
 
 .bloco-logos img {
