@@ -224,11 +224,12 @@ cursor: pointer;
 }
 
 .bloco-logos {
-    height: 180px;
+    height: 190px;
 }
 
 .bloco-logos img {
-    margin-top: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
 }
 
 .footer h3 {
